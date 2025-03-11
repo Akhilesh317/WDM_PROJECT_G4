@@ -10,7 +10,7 @@ This application provides a complete fitness management solution with role-based
 
 ### Authentication
 
-- **Login** - Secure authentication for existing users
+- **Login** - Secure authentication for existing users - For static pages testing, click on user type to redirect to respective user dashboard or profile.
 - **Signup** - New user registration with profile details
 - **Verification** - Email verification for new accounts
 - **Password Recovery** - Forgot password functionality
@@ -147,3 +147,5 @@ npm run build
 # Preview production build
 npm run preview
 ```
+
+* Refresh, if page did not loaded correctly.
